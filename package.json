@@ -1,0 +1,19 @@
+{
+  "name": "express_class",
+  "version": "1.0.0",
+  "description": "A quick project to learn ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "training"
+  ],
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
